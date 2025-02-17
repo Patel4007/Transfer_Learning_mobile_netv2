@@ -28,4 +28,9 @@ Navigate to the repository and open the notebook:
 
 ```bash
 cd Transfer_Learning_mobile_netv2
-jupyter notebook 
+jupyter notebook fine_tuned_mobilenetv2.ipynb
+```
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
